@@ -1,0 +1,6 @@
+{
+  "name": "Prajjwal Study Hub",
+  "description": "Comprehensive IIT Madras BS Degree preparation portal: Week 1-12 notes, Qualifier mock tests, Quiz 1 & 2 practice questions, PYQs, and formula cheat-sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
